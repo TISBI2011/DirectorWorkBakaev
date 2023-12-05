@@ -1,0 +1,7 @@
+Y:\Бакаев Илья\Директорская\DirectorWorkBakaev\DirectorWorkBakaev\obj\Debug\DirectorWorkBakaev.csproj.AssemblyReference.cache
+Y:\Бакаев Илья\Директорская\DirectorWorkBakaev\DirectorWorkBakaev\obj\Debug\AuthorizationPage.g.cs
+Y:\Бакаев Илья\Директорская\DirectorWorkBakaev\DirectorWorkBakaev\obj\Debug\MainWindow.g.cs
+Y:\Бакаев Илья\Директорская\DirectorWorkBakaev\DirectorWorkBakaev\obj\Debug\RegistrationPage.g.cs
+Y:\Бакаев Илья\Директорская\DirectorWorkBakaev\DirectorWorkBakaev\obj\Debug\App.g.cs
+Y:\Бакаев Илья\Директорская\DirectorWorkBakaev\DirectorWorkBakaev\obj\Debug\DirectorWorkBakaev_MarkupCompile.cache
+Y:\Бакаев Илья\Директорская\DirectorWorkBakaev\DirectorWorkBakaev\obj\Debug\DirectorWorkBakaev_MarkupCompile.lref
